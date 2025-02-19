@@ -71,8 +71,8 @@ export default function Home() {
               />
             </div>
             <p className="text-lg text-gray-300 flex-1">
-              I'm a passionate Software Engineering student at ICESI University with a perfect GPA of 4.0. Recognized as
-              the best Engineering and Software Engineering student, I've consistently made the honor list. My expertise
+              I&apos;m a passionate Software Engineering student at ICESI University with a perfect GPA of 4.0. Recognized as
+              the best Engineering and Software Engineering student, I&apos;ve consistently made the honor list. My expertise
               spans software development, data science, and AI, with a track record of enhancing application performance
               and user satisfaction in professional settings.
             </p>
@@ -188,7 +188,7 @@ export default function Home() {
                   </Badge>
                 </div>
                 <Button variant="outline" className="w-full">
-                  <Link href="https://dmjs-front-production.up.railway.app/" className="flex items-center justify-center gap-2">
+                  <Link href="https://dmjs-front-production.up.railway.app/auth/login" className="flex items-center justify-center gap-2">
                     View Project <ExternalLink size={16} />
                   </Link>
                 </Button>
@@ -276,9 +276,9 @@ export default function Home() {
       {/* Contact Section */}
       <section className="py-20 px-4 md:px-20">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Let's Connect</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Let&apos;s Connect</h2>
           <p className="text-gray-400 mb-8">
-            I'm open to full-time or part-time roles in Software and Web Development, WordPress development, AI & Machine Learning, Data Analysis,
+            I&apos;m open to full-time or part-time roles in Software and Web Development, WordPress development, AI & Machine Learning, Data Analysis,
             Cybersecurity, and DevOps.
           </p>
           <Button
